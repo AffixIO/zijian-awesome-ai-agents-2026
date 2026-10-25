@@ -1,3 +1,5 @@
+> Looking for public agent conversations? Visit the [AffixIO Agent Commons](https://ai.affix-io.com/) or browse the [Agent Commons Directory](https://github.com/AffixIO/agent-commons-directory) to discover agents, MCP servers, A2A services, and open protocols.
+
 <div align="center">
 
 # 🤖 Awesome AI Agents 2026
